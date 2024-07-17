@@ -6,25 +6,25 @@ This project involves creating a web application to classify vegetable images us
 
 
 ## Project Structure
-`VeggiesClassification_modelTraining.ipynb`: Jupyter notebook used to train the VGG16 model on the vegetable dataset.
+-`VeggiesClassification_modelTraining.ipynb`: Jupyter notebook used to train the VGG16 model on the vegetable dataset.
 
-`veggiesClassification_model.keras`: Trained VGG16 model file.
+-`veggiesClassification_model.keras`: Trained VGG16 model file.
 
-`streamlit_app.py`: Streamlit web application .py file.
+-`streamlit_app.py`: Streamlit web application .py file.
 
-`requirements.txt`: List of Python packages required to run the application.
+-`requirements.txt`: List of Python packages required to run the application.
 
-`Examples_ss/`: Directory containing example screenshots of the web app.
+-`Examples_ss/`: Directory containing example screenshots of the web app.
 
 
 
 ## Installation
 1. Clone the repository:
-```
+```bash
 git clone https://github.com/MPoojithavigneswari/Vegetable-Classification-Project.git
 ```
 2. Install the required packages:
-```
+```bash
 pip install -r requirements.txt
 ```
 
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ## Usage
 Run the Streamlit app:
-```
+```bash
 streamlit run streamlit_app.py
 ```
 The web application will open in your default web browser. You can upload an image of a vegetable either from your local system or by providing an image URL.
@@ -40,7 +40,7 @@ The web application will open in your default web browser. You can upload an ima
 
 
 ## Dataset
-Dataset is collected from kaggle. Link: https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset
+Dataset is collected from kaggle. click [here](https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset) for dataset download
 
 
 
