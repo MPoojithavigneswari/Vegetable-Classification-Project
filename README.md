@@ -45,13 +45,13 @@ Dataset is collected from kaggle. click [here](https://www.kaggle.com/datasets/m
 
 
 ## Application Features
-Image Upload: Users can upload images of vegetables directly from their local machine.
+- **Image Upload:** Users can upload images of vegetables directly from their local machine.
 
-URL Input: Users can provide a URL to an image of a vegetable.
+- **URL Input:** Users can provide a URL to an image of a vegetable.
 
-Top-3 Predictions: The application displays the top-3 predicted classes along with their probabilities.
+- **Top-3 Predictions:** The application displays the top-3 predicted classes along with their probabilities.
 
-Responsive Design: The application layout adjusts based on the screen size.
+- **Responsive Design:** The application layout adjusts based on the screen size.
 
 
 
