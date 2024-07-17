@@ -6,15 +6,15 @@ This project involves creating a web application to classify vegetable images us
 
 
 ## Project Structure
--`VeggiesClassification_modelTraining.ipynb`: Jupyter notebook used to train the VGG16 model on the vegetable dataset.
+- `VeggiesClassification_modelTraining.ipynb`: Jupyter notebook used to train the VGG16 model on the vegetable dataset.
 
--`veggiesClassification_model.keras`: Trained VGG16 model file.
+- `veggiesClassification_model.keras`: Trained VGG16 model file.
 
--`streamlit_app.py`: Streamlit web application .py file.
+- `streamlit_app.py`: Streamlit web application .py file.
 
--`requirements.txt`: List of Python packages required to run the application.
+- `requirements.txt`: List of Python packages required to run the application.
 
--`Examples_ss/`: Directory containing example screenshots of the web app.
+- `Examples_ss/`: Directory containing example screenshots of the web app.
 
 
 
